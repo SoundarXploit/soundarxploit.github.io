@@ -1,7 +1,7 @@
 ---
 title: 'Threat Modeling'
-date: 2025-04-01
-permalink: /posts/2025/01/Threat Modeling/
+date: 2025-01-04
+permalink: /posts/2025/04/Threat Modeling/
 tags:
   - Vulnerability
   - OWASP TOP 10
