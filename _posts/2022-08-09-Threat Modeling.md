@@ -1,14 +1,12 @@
-
 ---
 title: 'Threat Modeling'
 date: 2022-08-09
-permalink:  /posts/2022/08/Threat Modeling/
+permalink: /posts/2022/08/Threat Modeling/
 tags:
   - Vulnerability
   - OWASP TOP 10
   - Threat Modeling
 ---
-
 
 What is Threat Modeling?
 
