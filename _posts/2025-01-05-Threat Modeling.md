@@ -1,6 +1,6 @@
 ---
 title: 'Threat Modeling'
-date: 2025-01-01
+date: 2025-01-04
 permalink: /posts/2025/01/Threat Modeling/
 tags:
   - Vulnerability
