@@ -1,5 +1,5 @@
 ---
-title: 'Threat Modeling'
+title: 'Practical scenario Threat Modeling'
 date: 2025-01-05
 permalink: /posts/2025/01/Threat Modeling/
 tags:
