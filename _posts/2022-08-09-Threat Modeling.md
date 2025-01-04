@@ -1,12 +1,15 @@
+
 ---
 title: 'Threat Modeling'
 date: 2022-08-09
-permalink: /posts/2022/08/Threat Modeling/
+permalink:  /posts/2022/08/Threat Modeling/
 tags:
   - Vulnerability
   - OWASP TOP 10
   - Threat Modeling
 ---
+
+
 What is Threat Modeling?
 
 Threat modeling is a structured process to identify, analyze, and mitigate potential security threats in a system, application, or network, often during the early stages of the design phase in the Software Development Life Cycle (SDLC). The goal is to uncover and address potential vulnerabilities while fostering a clear understanding of risks and their mitigations. Ultimately, it aims to protect valuable assets by proactively managing threats.

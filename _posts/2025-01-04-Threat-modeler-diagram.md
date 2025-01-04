@@ -9,8 +9,6 @@ tags:
 ---
 
 
-
-
 ### Creating a Threat Model for Secure Transaction Flow
 
 When it comes to ensuring the safety of your systems, creating a threat model is like mapping out the blueprint for defense. In this blog, we'll break down a Browser client,transaction flow diagram, identify potential risks, and propose strategies to mitigate them.
@@ -18,8 +16,6 @@ When it comes to ensuring the safety of your systems, creating a threat model is
 
 
 ![Bankflow applications](/bank.png)
-
-
 
 
 ---
