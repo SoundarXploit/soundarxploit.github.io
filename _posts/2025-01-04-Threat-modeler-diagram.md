@@ -1,13 +1,12 @@
 ---
-title: 'Threat Modeler-Diagram'
-date: 2025-01-04
-permalink: /posts/2025/01/Threat Modeling/
+title: 'Threat Modeling'
+date: 2022-08-09
+permalink: /posts/2022/08/Threat Modeling/
 tags:
   - Vulnerability
   - OWASP TOP 10
   - Threat Modeling
 ---
-
 
 ### Creating a Threat Model for Secure Transaction Flow
 
