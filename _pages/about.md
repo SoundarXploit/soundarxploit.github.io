@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "This blog features content on cybersecurity 🛡️, various topics 💡, and a showcase of my achievements 🏆"
 author_profile: true
 redirect_from: 
   - /about/
