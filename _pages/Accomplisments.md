@@ -40,8 +40,6 @@ redirect_from:
 
   https://hackerone.com/soundarm
 
-## Tryhackme 
 
-  [Tryhackme](https://tryhackme.com/p/Soundar.M)
 
 
