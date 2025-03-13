@@ -1,7 +1,7 @@
 ---
 title: 'Practical scenario Threat Modeling'
 date: 2025-01-05
-permalink: /posts/2025/01/Threat Modeling/
+permalink: /posts/2025/01/Practical Scenario Threat Modeling/
 tags:
   - Vulnerability
   - OWASP TOP 10
